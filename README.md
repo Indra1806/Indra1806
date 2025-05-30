@@ -23,6 +23,7 @@ Mistakes are my best teachers—I embrace them to grow stronger. 🚀
 💡 HTML | CSS | JavaScript | Python | Git | GitHub
 🔧 GitHub Actions | Open Source Contributions | Blogger | Project Management
 📦 API Integration | Responsive Web Design | Mobile Usage Analysis
+'''
 
 🔹 Connect with Me:
 
