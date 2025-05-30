@@ -1,16 +1,33 @@
-## Hi there 👋
+![Profile Image](https://github.com/Indra1806/profile-image.png)
 
-<!--
-**Indra1806/Indra1806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔹 **About Me:**  
+I am a passionate developer and lifelong learner, always exploring new technologies.  
+Mistakes are my best teachers—I embrace them to grow stronger. 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 **My Interests:**  
+- 💻 Web Development (HTML, CSS, JavaScript)  
+- 🐍 Python Enthusiast (Tkinter & Backend Development)  
+- 🌐 Open Source Contributions  
+- 📱 Mobile App Development  
+
+🔹 **GitHub Contributions:**  
+📌 Created **16 repositories** | ⭐ 1 star | 📈 Active contributor in 2025  
+📊 Latest Projects:  
+- `LADDER_NOTES` 📒 - **Organizing and structuring learning materials**  
+- `tkinter-calculator` ➕ - **Building a powerful GUI-based calculator**  
+- `Smart-Home-Dashboard` 📊 - **Innovative dashboard to control smart devices**  
+
+🔹 **Skills & Technologies:**  
+```yaml
+💡 HTML | CSS | JavaScript | Python | Git | GitHub
+🔧 GitHub Actions | Open Source Contributions | Blogger | Project Management
+📦 API Integration | Responsive Web Design | Mobile Usage Analysis
+
+🔹 Connect with Me:
+
+🌐 My Blog
+
+📧 Reach me via GitHub Discussions or Issues
+
+🚀 Let's create, innovate, and learn together!
