@@ -1,4 +1,4 @@
-![Profile Image](https://github.com/Indra1806/profile-image.png)
+![Profile Image](https://github.com/Indra1806/https://github.com/Indra1806/Indra1806/blob/main/Banner/picture.png)
 
 
 🔹 **About Me:**  
