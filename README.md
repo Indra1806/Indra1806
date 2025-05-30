@@ -1,5 +1,7 @@
  ## 🚀 Welcome to My GitHub Profile!  
-![Animated Banner](https://github.com/Indra1806/Indra1806/blob/main/Banner/profile-banner.svg)
+
+![Animated Banner](https://raw.githubusercontent.com/Indra1806/Indra1806/main/profile-banner.svg)
+
 
 
 ![Profile Image](https://bing.com/th/id/BCO.ac7bebd9-c167-419e-a572-986f2d07969e.png)
