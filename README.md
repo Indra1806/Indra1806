@@ -1,7 +1,11 @@
 <div align="center">
   
-  ## 🚀 Welcome to My GitHub Profile!  
-  ![Profile Image](https://bing.com/th/id/BCO.ac7bebd9-c167-419e-a572-986f2d07969e.png)
+  ## 🚀 Welcome to My GitHub Profile!
+  <img src="https://bing.com/th/id/BCO.ac7bebd9-c167-419e-a572-986f2d07969e.png" width="370px" align="left">
+
+  <img src="https://notioly.com/wp-content/uploads/2025/05/547.Lending-A-Hand.png" width="300px" align="right">
+
+
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300FF00&lines=Full+Stack+Developer;Open+Source+Contributor;Building+Awesome+Projects)](https://github.com/Indra1806)  
 
   ---  
