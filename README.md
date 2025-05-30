@@ -10,10 +10,12 @@
 
   ---  
 
-  🔹 **About Me:**  
+  🔹
+  **About Me:**  
   
   I am a passionate developer and lifelong learner, always exploring new technologies.  
   Mistakes are my best teachers—I embrace them to grow stronger. 🚀  
+  <img src="https://notioly.com/wp-content/uploads/2023/02/203.Puzzle.png" width="370px" align="left">
 
   ---  
 
@@ -48,11 +50,11 @@
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Indra1806&theme=tokyonight)  
 
   ---  
-
   ## 🚀 Connect With Me  
-  
+
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://indrasenareddybala.my.canva.site/)  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/indrasena-reddy-bala-b11779258)  
   [![GitHub Followers](https://img.shields.io/github/followers/Indra1806?style=social)](https://github.com/Indra1806)  
+  <img src="https://notioly.com/wp-content/uploads/2022/05/130.Friendship.png" width="370px" align="center">
 
 </div>
