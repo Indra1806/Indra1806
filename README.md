@@ -1,4 +1,4 @@
-![Profile Image](https://github.com/Indra1806/Indra1806/blob/main/Banner/picture.png)
+![Profile Image](https://bing.com/th/id/BCO.ac7bebd9-c167-419e-a572-986f2d07969e.png)
 
 
 🔹 **About Me:**  
