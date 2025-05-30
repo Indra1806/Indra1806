@@ -1,9 +1,5 @@
  ## 🚀 Welcome to My GitHub Profile!  
 
-![Animated Banner](https://raw.githubusercontent.com/Indra1806/Indra1806/main/profile-banner.svg)
-
-
-
 ![Profile Image](https://bing.com/th/id/BCO.ac7bebd9-c167-419e-a572-986f2d07969e.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300FF00&lines=Full+Stack+Developer;Open+Source+Contributor;Building+Awesome+Projects)](https://github.com/Indra1806)
@@ -36,14 +32,9 @@ Mistakes are my best teachers—I embrace them to grow stronger. 🚀
 🌐 ## 🌐 Visit My Blog  
 [![My Blog](https://img.shields.io/badge/My%20Blog-Read%20Now-blue?style=for-the-badge)](https://www.18Slicesofme.blogspot.com)
 
-
-📧 Reach me via GitHub Discussions or Issues
-
-🚀 Let's create, innovate, and learn together!
-
 ## 🚀 Tech & Social Links
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/Indra1806/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://indrasenareddybala.my.canva.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/indrasena-reddy-bala-b11779258)
 [![GitHub Followers](https://img.shields.io/github/followers/Indra1806?style=social)](https://github.com/Indra1806)
 
 ## 📊 Contribution Graph  
