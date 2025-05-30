@@ -29,8 +29,9 @@ Mistakes are my best teachers—I embrace them to grow stronger. 🚀
 
 🔹 Connect with Me:
 
-🌐 Visit My Blog  
-[![My Blog](https://img.shields.io/badge/My%20Blog-Read%20Now-blue?style=for-the-badge)](https://www.18Slicesofme.blogspot.com)
+🌐 Visit My Blog
+
+[![My Blog](https://img.shields.io/badge/My%20Blog-Read%20Now-blue?style=for-the-badge)](https://18slicesofme.blogspot.com/)
 
 ## 🚀 Tech & Social Links
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://indrasenareddybala.my.canva.site/)
