@@ -1,9 +1,10 @@
-## 🚀 Welcome to My GitHub Profile!  
+ ## 🚀 Welcome to My GitHub Profile!  
+![Animated Banner](https://github.com/Indra1806/Indra1806/blob/main/Banner/profile-banner.svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300FF00&lines=Full+Stack+Developer;Open+Source+Contributor;Building+Awesome+Projects)](https://github.com/Indra1806)
 
 ![Profile Image](https://bing.com/th/id/BCO.ac7bebd9-c167-419e-a572-986f2d07969e.png)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300FF00&lines=Full+Stack+Developer;Open+Source+Contributor;Building+Awesome+Projects)](https://github.com/Indra1806)
 
 🔹 **About Me:**  
 I am a passionate developer and lifelong learner, always exploring new technologies.  
