@@ -21,7 +21,7 @@
 
   🔹 **GitHub Contributions & Stats**  
   
-  📊 Created **22 repositories** | ⭐ 1 star | 📈 Active contributor in 2025  
+  📊 Created **24 repositories** | ⭐ 1 star | 📈 Active contributor in 2025  
 
   
 
