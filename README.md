@@ -8,19 +8,26 @@
   I love solving complex problems, building scalable applications, and constantly exploring new technologies to create real-world impact.
 </p>
 
----
+  <p align="right"> <img src="https://github.com/Indra1806/Indra1806/blob/main/solar%20system.gif" width="25%" height="50%" alt="solar"></p>
+  <p align="center">
+<img src = "https://github.com/Indra1806/Indra1806/blob/main/Businessman%20flies%20up%20with%20rocket.gif" width="25%" height="30%" alt="rocket animation">
+</p>
 
-<h2 align="center">📊 My GitHub Stats</h2>
+<h1 align="center">📊 My GitHub Stats</h2>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Indra1806&show_icons=true&theme=transparent" alt="GitHub Stats" /><br>
+    <p align="left"> <img src="https://github.com/Indra1806/Indra1806/blob/main/solar%20system.gif" alt="solar"></p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indra1806&layout=compact&theme=transparent" alt="Top Languages" />
+</p>
+<br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Indra1806&row=1&column=8&no-bg=true&theme=transparent" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Indra1806&row=1&column=7&no-bg=true&theme=transparent" alt="GitHub Trophies" />
-</p>
-
----
+<img src="https://github.com/Indra1806/Indra1806/blob/main/Man%20and%20robot%20with%20computers%20sitting%20together%20in%20workplace.gif" width="40%" alt="robot-human"></p>
 
 <h2 align="center">🛠️ My Skills & Tech Stack</h2>
 <div align="center">
@@ -58,7 +65,6 @@
 
 
 </div>
----
 
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
@@ -72,6 +78,12 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-<h2 align="center"> Portfolio</h2>
-<img src="https://lottie.host/embed/a58d38cf-609b-48c2-9d4a-5c63e980dc4f/q2pnlNiXAD.lottie" alr="svg">
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-232F3E?style=for-the-badge&logo=netlify&logoColor=white)](https://www.indrasenareddybala.info)  
+  <p align = "center">
+    
+<img src="https://github.com/Indra1806/Indra1806/blob/main/Programing.gif" alr="svg">
+
+  </p>
+
 
