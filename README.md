@@ -12,15 +12,7 @@
   <p align="center">
 <img src = "https://github.com/Indra1806/Indra1806/blob/main/Businessman%20flies%20up%20with%20rocket.gif" width="25%" height="30%" alt="rocket animation">
 </p>
-
-<h1 align="center">📊 My GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Indra1806&show_icons=true&theme=transparent" alt="GitHub Stats" /><br>
     <p align="left"> <img src="https://github.com/Indra1806/Indra1806/blob/main/solar%20system.gif" alt="solar"></p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indra1806&layout=compact&theme=transparent" alt="Top Languages" />
-</p>
 <br>
 
 <p align="center">
