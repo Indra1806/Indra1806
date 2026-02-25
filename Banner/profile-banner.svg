@@ -1,6 +1,0 @@
-<svg width="600" height="150">
-  <text x="50" y="75" font-size="40" fill="orange">
-    <animate attributeName="x" from="670" to="-600" dur="8s" repeatCount="indefinite"/>
-    Welcome to Indra1806's GitHub Profile!
-  </text>
-</svg>
