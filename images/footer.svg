@@ -74,7 +74,8 @@
   </g>
 
   <!-- Sign-off line -->
-  <text class="signoff" x="400" y="69" text-anchor="middle" fill="#f7f7fb" font-family='"Inter", system-ui, sans-serif' font-size="12" font-weight="500">made with <tspan class="heart" fill="#dc2626">♥</tspan> by INDRASENA REDDY - Knowledge has to be improved, challenged, and increased constantly, or it…</text>
+  <text class="signoff" x="400" y="69" text-anchor="middle" fill="#f7f7fb" font-family='"Inter", system-ui, sans-serif' font-size="18" font-weight="300"> Knowledge has to be improved, challenged, and increased constantly, or it…</text>
+
 
   <g transform="translate(318 93)">
         <g class="soc sf0">
@@ -84,5 +85,5 @@
       </g>
 
   <!-- ryme.md attribution: low-opacity mono credit in the bottom-right. -->
-  <text x="782" y="148" fill="#a5a5b3" fill-opacity="0.4" font-family="ui-monospace, monospace" font-size="10" text-anchor="end">made with ryme.md</text>
+  <text x="782" y="148" fill="#a5a5b3" fill-opacity="0.4" font-family="ui-monospace, monospace" font-size="10" text-anchor="end">made with 💚</text>
 </svg>
